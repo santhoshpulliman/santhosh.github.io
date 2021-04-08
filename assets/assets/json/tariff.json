@@ -7,17 +7,19 @@
     "tenHourPackage": "₹2000",
     "twelveHourPackage": "₹2700",
     "oneDayPackage": "₹3000",
-    "perKmCharge": "₹10/km"
+    "perKmCharge": "₹10/km",
+    "driverBata": "₹400"
   },
   {
     "cabType": "Swift/Zest/Etios/Amaze(4 seats)",
-    "fourHourPackage": "₹100",
+    "fourHourPackage": "₹1000",
     "fiveHourPackage": "₹1100",
     "eightHourPackage": "₹2000",
     "tenHourPackage": "₹2200",
     "twelveHourPackage": "₹3000",
     "oneDayPackage": "₹3500",
-    "perKmCharge": "₹11/km"
+    "perKmCharge": "₹11/km",
+    "driverBata":  "₹400"
   },
   {
     "cabType": "Xylo/Tavera(7 seats)",
@@ -27,7 +29,8 @@
     "tenHourPackage": "₹2800",
     "twelveHourPackage": "₹3600",
     "oneDayPackage": "₹4000",
-    "perKmCharge": "₹14/km"
+    "perKmCharge": "₹14/km",
+    "driverBata":  "₹600"
   },
   {
     "cabType": "Toyota Innova(7 seats)",
@@ -37,17 +40,19 @@
     "tenHourPackage": "₹3000",
     "twelveHourPackage": "₹3900",
     "oneDayPackage": "₹4000",
-    "perKmCharge": "₹16/km"
+    "perKmCharge": "₹16/km",
+    "driverBata":  "₹600"
   },
   {
     "cabType": "Toyota Crysta(7 seats)",
     "fourHourPackage": "₹1500",
     "fiveHourPackage": "₹1800",
-    "eightHourPackage": "₹300",
+    "eightHourPackage": "₹3000",
     "tenHourPackage": "₹3600",
     "twelveHourPackage": "₹4500",
     "oneDayPackage": "₹5000",
-    "perKmCharge": "₹18/km"
+    "perKmCharge": "₹18/km",
+    "driverBata":  "₹600"
   },
   {
     "cabType": "Tempo traveller(12 seats)",
@@ -55,9 +60,10 @@
     "fiveHourPackage": "₹2500",
     "eightHourPackage": "₹4000",
     "tenHourPackage": "₹5000",
-    "twelveHourPackage": "₹600",
+    "twelveHourPackage": "₹6000",
     "oneDayPackage": "₹5000",
-    "perKmCharge": "₹18/km"
+    "perKmCharge": "₹18/km",
+    "driverBata":  "₹600"
   },
   {
     "cabType": "Tempo traveller(16 seats)",
@@ -67,6 +73,7 @@
     "tenHourPackage": "₹5500",
     "twelveHourPackage": "₹6750",
     "oneDayPackage": "₹5500",
-    "perKmCharge": "₹20/km"
+    "perKmCharge": "₹20/km",
+    "driverBata":  "₹600"
   }
 ]
